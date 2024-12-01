@@ -1,0 +1,5 @@
+﻿  TP4-TP5.cpp
+C:\Thomas\TP4-TP5\OffrePublisher.hpp(30,32): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'TP4-TP5.cpp')
+  
+  TP4-TP5.vcxproj -> C:\Thomas\TP4-TP5\x64\Debug\TP4-TP5.exe
